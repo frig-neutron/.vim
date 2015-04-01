@@ -1,0 +1,11 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =9
+let g:netrw_dirhist_1='/home/frig_neutron/Academic/booking-profiles'
+let g:netrw_dirhist_2='/home/frig_neutron/Documents'
+let g:netrw_dirhist_3='/home/frig_neutron/tmp/mvn-workspace/client/target'
+let g:netrw_dirhist_4='/home/frig_neutron/eclipse-workspaces/hh-workspace/omrs/bin/main'
+let g:netrw_dirhist_5='/home/frig_neutron/eclipse-workspaces/hh-workspace/omrs-web-aspects'
+let g:netrw_dirhist_6='/home/frig_neutron/eclipse-workspaces/hh-workspace/JettyLauncher'
+let g:netrw_dirhist_7='/home/frig_neutron/src/proship/calls-to-computer'
+let g:netrw_dirhist_8='/home/frig_neutron/src/proship/calls-to-computer/.git'
+let g:netrw_dirhist_9='/home/frig_neutron/.vim'
