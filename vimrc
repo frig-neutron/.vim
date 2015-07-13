@@ -1,5 +1,3 @@
-let g:languagetool_jar = '$HOME/local/LanguageTool/languagetool-commandline.jar'
-
 set nowrap
 set bg=dark
 set tabstop=4
